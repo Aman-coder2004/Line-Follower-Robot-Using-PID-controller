@@ -42,9 +42,7 @@ LineFollower-Robot/
 📸 Photos
 
 ![Robot Structure](structure.jpeg)
-![Circuit-diagram](circuit_diagram.jpeg)
-![Block-diagram](structure.jpeg)
-![Work-Flow](work-flow.jpeg)
+
 
 ✨ Features
 
